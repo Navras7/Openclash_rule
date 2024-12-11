@@ -3,10 +3,13 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,apool.io
 DOMAIN-SUFFIX,quai.oula.network
+DOMAIN-SUFFIX,oula.network
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,quai
+DOMAIN-KEYWORD,oula
+
 
 
 # IP段匹配
