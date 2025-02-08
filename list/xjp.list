@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,quai.oula.network
-DOMAIN-SUFFIX,pathofexile.com
+
 # 矿池直连
 
   
@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,f2pool
 DOMAIN-KEYWORD,quai
 DOMAIN-KEYWORD,steampowered
-DOMAIN-KEYWORD,pathofexile
+
 
 
   
